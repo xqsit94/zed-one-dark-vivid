@@ -1,5 +1,5 @@
-# Zed One Dark Pro
-One Dark Pro theme for Zed
+# Zed One Dark Vivid
+One Dark Vivid theme for Zed, Ported from One Dark Pro
 
-## One Dark Pro
-![one-dark-pro](./screenshots/one-dark-pro.png)
+## Credits
+- Original One Dark Pro theme for Zed by [Derrick Laird](https://github.com/MordFustang21/zed-one-dark-pro)

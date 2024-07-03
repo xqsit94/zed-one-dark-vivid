@@ -1,9 +1,10 @@
 {
-  "name": "One Dark Pro",
-  "author": "One Dark Pro: Zed Theme Importer",
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "One Dark Vivid",
+  "author": "Manikandan B - @xqsit94",
   "themes": [
     {
-      "name": "One Dark Pro",
+      "name": "One Dark Vivid",
       "appearance": "dark",
       "style": {
         "border": "#3e4452",
