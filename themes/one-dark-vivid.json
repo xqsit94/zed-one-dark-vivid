@@ -138,7 +138,11 @@
         "warning": "#d19a66",
         "warning.background": null,
         "warning.border": null,
-        "players": [],
+        "players": [
+          {
+            "selection": "#454b5480"
+          }
+        ],
         "syntax": {
           "comment": {
             "color": "#7F838C",
