@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "border": "#181b1f",
-        "border.variant": "#2b2f35",
+        "border.variant": "#4a505b",
         "border.focused": "#181b1f",
         "border.selected": "#181b1f",
         "border.transparent": "#181b1f",
@@ -252,7 +252,7 @@
       "appearance": "dark",
       "style": {
         "border": "#2e3238",
-        "border.variant": "#2b2f35",
+        "border.variant": "#4a505b",
         "border.focused": "#2e3238",
         "border.selected": "#2e3238",
         "border.transparent": "#2e3238",
